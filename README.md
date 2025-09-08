@@ -28,7 +28,7 @@ I am currently upskilling in **Data Analytics and Data Science**:
 
 ## 🚀 Projects & Learning Repository Ideas  
 - 📝 Text Cleaning & Preprocessing with Python.  
-- 🎙️ Speech Recognition QA (Word Error Rate analysis).  
+- 🎙️ Speech Recognition QA.  
 - 🖼️ ADAS Annotation Samples (Bounding Box, Semantic Segmentation).  
 - 📊 Data Analysis Portfolio Project – Sales/Customer Insights.  
 - 🧮 Exploratory Data Analysis (EDA) with Pandas & Matplotlib.  
